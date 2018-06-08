@@ -1,0 +1,16 @@
+{
+  "name": "writeinfile",
+  "version": "1.0.0",
+  "description": "node.js server with basic rest interface that saves it's input in a file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11"
+  }
+}
